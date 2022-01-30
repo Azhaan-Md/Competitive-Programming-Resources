@@ -103,4 +103,5 @@
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/kunal-kushwaha/Competitive-Programming-Resources/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=kunal-kushwaha/Competitive-Programming-Resources"/>
-</a>
+ /a>
+ HI I am Azhaan new to git
